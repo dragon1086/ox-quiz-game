@@ -1,1 +1,25 @@
-IyBPWCDtgbTrpq3quLAKCiMjIOyGjOqwnQrqsJzriqXtlZjqsowg7J6R66Cl7J6l64qUwqBPWCDtgbTrpq3quLDsnoXri4jri6QuIEhUTUwsIENTUywgSmF2YVNjcmlwdOulvCDsgqzsmqntlZjsl6wg7KCc7J6F65CY7JeI7Iq164uI64ukLgoKIyMg7KO87Ja0IOq4sOuLiAotIDEw6rCc7J2YIOyekeuKlOyXkOqyjCDsg4Htg5wg7YG066atCi0g7Iuc7IucqOq4sCDsoJDsiJgg6rKA7IOJCi0g64K07J2EIOusuOygnCDsiJgg7ZGc7IucCi0g67Cb7J2R7ZiVIOuUsOyekOyduAotIOqysOqzvCDsm5Dsi5wg7ZmV7J24Ci0g6rKM7J6QIOyeheykgO2MkCDquLDriqUKCiMjIOyLpO2WiSDrsKnrspUKMS4g66as7Y+s7KeA7Yig66as66W8IO2BtOuhnO2VqeuLiOuLpAoyLiBpbmRleC5odG1sIO2MjOydvOydhCDsm5Drrqgg67iU652865Ok7JeQ7IScIOyTsOuLiOuLpAozLiDsm5TqtoHqsowg7YG066at66W8IO2GoOyWtOuztOyEuOyalCEKCiMjIO2PrOyKpCDsiqTtgawKLSBIVE1MNQotIENTUzMKLSBKYXZhU2NyaXB0CgojIyDrnbzsnbTshozeuQrrsKnriqUg66y47J6Q
+# OX 퀴즈 게임
+
+## 소개
+간단하고 재미있는 OX 퀴즈 게임입니다. HTML, CSS, JavaScript를 사용하여 제작되었습니다.
+
+## 주요 기능
+- 10개의 재미있는 상식 퀴즈
+- 실시간 점수 계산
+- 남은 문제 수 표시
+- 반응형 디자인
+- 결과 즉시 확인
+- 게임 재시작 기능
+
+## 실행 방법
+1. 저장소를 클론합니다
+2. index.html 파일을 웹 브라우저에서 엽니다
+3. 즐겁게 퀴즈를 풀어보세요!
+
+## 기술 스택
+- HTML5
+- CSS3
+- JavaScript
+
+## 라이선스
+MIT License
