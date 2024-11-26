@@ -1,25 +1,44 @@
-# OX 퀴즈 게임
+# OX 퀴즈 게임 (Flutter 버전)
 
-## 소개
-간단하고 재미있는 OX 퀴즈 게임입니다. HTML, CSS, JavaScript를 사용하여 제작되었습니다.
+기존의 웹 기반 OX 퀴즈 게임을 Flutter로 재구현한 버전입니다.
 
-## 주요 기능
-- 10개의 재미있는 상식 퀴즈
-- 실시간 점수 계산
+## 기능
+
+- OX 퀴즈 게임 진행
+- 점수 집계
 - 남은 문제 수 표시
-- 반응형 디자인
-- 결과 즉시 확인
-- 게임 재시작 기능
+- 정답/오답 표시
+- 게임 재시작
 
-## 실행 방법
-1. 저장소를 클론합니다
-2. index.html 파일을 웹 브라우저에서 엽니다
-3. 즐겁게 퀴즈를 풀어보세요!
+## 설치 및 실행
 
-## 기술 스택
-- HTML5
-- CSS3
-- JavaScript
+1. Flutter 개발 환경 설정이 필요합니다.
+2. 프로젝트를 클론합니다:
+   ```bash
+   git clone https://github.com/dragon1086/ox-quiz-game.git
+   ```
+3. 종속성을 설치합니다:
+   ```bash
+   flutter pub get
+   ```
+4. 앱을 실행합니다:
+   ```bash
+   flutter run
+   ```
 
-## 라이선스
+## 주요 변경사항
+
+- 웹 버전에서 Flutter 앱으로 변환
+- 상태 관리를 위한 Provider 패턴 적용
+- 모바일 친화적인 UI/UX 개선
+- 반응형 디자인 적용
+
+## 사용된 기술
+
+- Flutter
+- Provider (상태 관리)
+- Material Design
+
+## 라이센스
+
 MIT License
