@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OX 퀴즈 게임</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎮 OX 퀴즈 게임</h1>
+        
+        <div class="score-board">
+            <span>점수: <span id="score">0</span></span>
+            <span>남은 문제: <span id="remaining">10</span></span>
+        </div>
+
+        <div class="quiz-container">
+            <p id="question">문제를 불러오는 중...</p>
+            
+            <div class="buttons">
+                <button id="true-btn" onclick="checkAnswer(true)">O</button>
+                <button id="false-btn" onclick="checkAnswer(false)">X</button>
+            </div>
+        </div>
+
+        <div id="result" class="result hidden"></div>
+        
+        <button id="next-btn" class="hidden" onclick="nextQuestion()">다음 문제</button>
+        <button id="restart-btn" class="hidden" onclick="restartGame()">다시 시작</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
